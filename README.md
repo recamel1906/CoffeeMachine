@@ -3,3 +3,5 @@ Simple Coffee Machine Simulator App that can make three types of coffee: espress
 
 Project Completed using JetBrains Hyperskill 
 https://hyperskill.org/projects?goal=7
+
+![Coffee Machine Demo](demo/sample.gif)
